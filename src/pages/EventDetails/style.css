@@ -1,0 +1,42 @@
+.event-details-page {
+  align-items: start;
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.event-details-page .overlap-wrapper {
+  background-color: #ffffff;
+  height: 1024px;
+  width: 1440px;
+}
+
+.event-details-page .overlap-17 {
+  height: 985px;
+  left: 18px;
+  position: relative;
+  top: 20px;
+  width: 1407px;
+}
+
+.event-details-page .outer-line {
+  background-color: #111111;
+  border-radius: 20px;
+  height: 985px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1405px;
+}
+
+.event-details-page .content-box {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 944px;
+  left: 234px;
+  position: absolute;
+  top: 20px;
+  width: 1153px;
+}

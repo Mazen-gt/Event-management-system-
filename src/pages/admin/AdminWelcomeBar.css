@@ -1,0 +1,19 @@
+.admin-welcome-bar {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.admin-welcome-bar h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #111111;
+}
+
+.admin-welcome-bar p {
+  margin: 5px 0 0;
+  color: #555555;
+  font-size: 14px;
+}
